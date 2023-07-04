@@ -1,6 +1,6 @@
 # CIForAD
 ### Cross-modal Integration Framework for Anomaly Detection in Surveillance Videos
-This is an implementation of the paper Cross-modal Integration Framework for Anomaly Detection in Surveillance Videos. For convenience, we upload the compressed files (CIForAD.rar) in this projection.
+This is an implementation of the paper Cross-modal Integration Framework for Anomaly Detection in Surveillance Videos. For convenience, we upload the compressed files ```CIForAD.rar``` in this projection.
 
 ### Implementation
 - Linux OS or Windows OS 
